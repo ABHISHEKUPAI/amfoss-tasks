@@ -1,0 +1,29 @@
+<div class="bar l"></div>
+<div class="bar r"></div>
+<div class="blk"></div>
+
+<style>
+  body {
+    background: #FFFFFF;
+  }
+  .bar {
+    position: absolute;
+    top: 0;
+    width: 50px;
+    height: 100%;
+    background: #F88889;
+  }
+  .l { left: 80px; }
+  .r { right: 80px; }
+
+  .blk{
+    position: absolute;
+    top: 125px;
+    left: 50px;
+    right: 80px;
+    height: 50px;
+    width: 300px;
+    background: #000000;
+    border-radius: 50px;
+  }
+</style>
