@@ -1,4 +1,4 @@
-<h1># amfoss-tasks</h1>
+<h1>amfoss-tasks</h1>
 <h2> WHO AM I ?<br></h2>
 I am Abhishek U Pai from Ernakulam, Kerala. Like many who aspire to join the prestigious amFOSS Club, I am passionate about computer programming and understanding how computers work. Over time, I have built the ability to learn quickly, adapt to challenges, and apply knowledge effectively and ethically.
 
