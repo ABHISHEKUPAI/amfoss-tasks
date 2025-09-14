@@ -20,7 +20,7 @@ i did indeed enjoy the process . i had done each task keeping in mind the fact t
 <H2>Task-status</H2>
 | Task List | Description | Status |
 |-----------|-------------|--------|
-| Task-00   | [Install Linux](#) | Completed |
+| Task-00   | [Install Linux](#) | Completed |<br>
 | Task-01   | [TERMINAL HUNT ](#) | Completed |
 | Task-02   | [THE CYBERPUNK SYNDICATE](#) | Completed |
 | Task-03   | [THE CIRCULARITY CHALLENGE](#) | Completed |
