@@ -1,0 +1,23 @@
+# Task-01: Terminal Hunt
+
+commands that i felt new personally  :- 
+1] The chmod command in Linux (change mode) is used to modify file and directory permissions. It lets you control who can read (r=4), write (w=2), and execute (x=1) files for the user (u), group (g), and others (o). Permissions can be set using numeric (e.g., chmod 755 file) or symbolic notation (e.g., chmod u+x file). Commonly, it’s used to make scripts executable (chmod +x script.sh) or restrict access (chmod 600 file). Options like -R allow recursive permission changes on directories.
+
+2]To change a branch in Git using terminal, first check your current branch with git branch, then fetch the latest branches using git fetch. To switch to an existing branch, use git checkout branch_name (or the newer git switch branch_name), and to create and switch to a new branch, use git checkout -b new_branch (or git switch -c new_branch). If you have uncommitted changes, you must commit or stash them before switching.
+
+3] find . -type f -size +99c -size -100c
+meaning 
+. → start search in the current directory.
+-type f → look only for regular files (not directories).
+-size +99c → files larger than 99 bytes.
+-size -100c → files smaller than 100 bytes.
+
+4]In Linux (and other Unix-like systems), any file or directory whose name begins with a dot (.) is considered hidden.
+
+Passwords Found:
+Facility Password: [T25lIGxhc3QgdGFzaywgYW5kIHlvdSdsbCBoYXZlIHN1Y2Nlc3NmdWxseSBjb21] which is a base 64 code equivalent to [One last task, and you'll have successfully com]
+Wormhole Key: [wbGV0ZWQgdGhlIFRlcm1pbmFsIEh1bnQhIFJ1biBncmF2aXR5] which is a base 64 code equivalent to [pleted the Terminal Hunt! Run gravity]
+planet Code: [X3NvbHZ] which is a base 64 code equivalent to [_solv]
+binary code:[01011010 01010011 01110111 01100111 01011001 01010111 00110101 01101011 01001001 01000111 01000110 01101011 01011010 01000011 01000010 01101000 01001001 01001000 01001110 01101010 01100011 01101101 01010110 01101100 01100010 01101110 01001110 01101111 01100010 00110011 01010001 01100111 01100100 01000111 00111000 01100111 01100011 00110010 00111001 01110011 01100100 01011000 01010010 01110000 01100010 01001101 00110001 01111010 01001100 01101101 00110001 01101011]
+final message :[One last task, and you'll have successfully completed the Terminal Hunt! Run gravity_solv, and add a screenshot to solutions.md]
+

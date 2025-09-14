@@ -1,0 +1,117 @@
+<div class="box1"></div>
+<div class="box2"></div>
+<div class="box3"></div>
+<div class="box4"></div>
+<div class="box5"></div>
+<div class="box6"></div>
+<div class="box7"></div>
+<div class="box8"></div>
+<div class="box9"></div>
+<div class="box10"></div>
+<div class="box11"></div>
+<div class="box12"></div>
+
+<style>
+  body{
+    background-color:#FCEBEB;
+  }
+  .box1 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:170px;
+    top:20;
+  }
+    .box2{
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:170px;
+    top:60;
+  }
+    .box3 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:170px;
+    top:100;
+  }
+      .box4 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:170px;
+    top:180;
+  }
+      .box5 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:170px;
+    top:220px;
+  }
+    
+      .box6 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:170px;
+    top:260px;
+  }
+    
+      .box7 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:110px;
+    top:160px;
+  }  
+      .box8 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:50px;
+    top:140px;
+  }  
+      .box9{
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    left:110px;
+    top:120;
+  }
+      .box10{
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    right:110px;
+    top:120;
+  }
+ .box11{
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    right:50px;
+    top:140;
+  }
+  .box12 {
+    position:absolute;
+    width: 60px;
+    height: 20px;
+    background:#DE6B67;
+    right:110px;
+    top:160;
+  }
+</style>
+
