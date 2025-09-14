@@ -39,7 +39,7 @@ i did indeed enjoy the process . i had done each task keeping in mind the fact t
   </tr>
   <tr>
     <td>Task-02</td>
-    <td><a href="./task-02">ccyberpunk syndicate/a></td>
+    <td><a href="./task-02">cyberpunk syndicate </a></td>
     <td>Completed</td>
   </tr>
   <tr>
@@ -93,4 +93,16 @@ i did indeed enjoy the process . i had done each task keeping in mind the fact t
           href="./task-12">hello world !</a></td>
     <td>Completed</td>
   </tr>
+      <tr>
+    <td>Task-10</td>
+    <td><a
+          href="./task-13">lessgo hugo</a></td>
+    <td>Completed</td>
+  </tr>
+      <tr>
+    <td>Task-10</td>
+    <td><a
+          href="./task-14">sandstimulator</a></td>
+    <td>Completed</td>
+  
 </table>
