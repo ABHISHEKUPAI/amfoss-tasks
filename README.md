@@ -97,12 +97,12 @@ i did indeed enjoy the process . i had done each task keeping in mind the fact t
     <td>Task-10</td>
     <td><a
           href="./task-13">lessgo hugo</a></td>
-    <td>Completed</td>
+    <td>Not attempted</td>
   </tr>
       <tr>
     <td>Task-10</td>
     <td><a
           href="./task-14">sandstimulator</a></td>
-    <td>Completed</td>
+    <td>Not attempted</td>
   
 </table>
