@@ -12,24 +12,85 @@ I abelieve i am a patient and consistent learner, willing to research thoroughly
 5 ] Achieved Rank 2803 in AEEE<BR>
 6 ] Learned HTML, CSS, JavaScript, C, and Python through self-study and online resources
 <H2>How do you intend to contribute back to the club?</H2>
-I do not consider myself someone with extraordinary inborn abilities—but what makes me special is my curiosity and determination to learn and grow. My goal is not driven by wealth or luxury, but by a genuine desire to make an impact through technology—to create solutions that can reach and uplift people’s lives.Once i find  my forte in coding  and i really want to explore various fields like Gsoc , i believe my contributions if possible in future in these spheres is a way of me contributinf back to the club. 
+I do not consider myself someone with extraordinary inborn abilities—but what makes me special is my curiosity and determination to learn and grow. My goal is a genuine desire to make an impact through technology—to create solutions that can reach and uplift people’s lives.Once i find  my forte in coding  and i really want to explore various fields like Gsoc , i believe my contributions if possible in future in these spheres is a way of me contributinf back to the club. 
 <h2>What are your fields of interest, and how do you plan on working on them?</h2>
 to be very honest i really dont have a specefic answer but i really do enjoy coding . what i am planning to do is i first want to find my interest check if its into web dev, app dev , etc i plan to find it by doing projects in eash of the category i will then select that one which i find the most interesting and facenating at the same time .Then i will work on it to be one among the best but at the same time evolving with other fields so that i stay updated .
 <h2>What are your thoughts and feedback on the Praveshan Selection Process?</h2>
 i did indeed enjoy the process . i had done each task keeping in mind the fact that i could as well as i could not get selected into amfoss. as it was in my mind i focused on learning task and not simply wasting time by simply completing the task one after the another blindly . i do find it sad that i was not able to complete everything but i am confident that i have done whatever i can in the current scenario. 
-<H2>Task-status</H2>
-| Task List | Description | Status |
-|-----------|-------------|--------|
-| Task-00   | [Install Linux](#) | Completed |<br>
-| Task-01   | [TERMINAL HUNT ](#) | Completed |
-| Task-02   | [THE CYBERPUNK SYNDICATE](#) | Completed |
-| Task-03   | [THE CIRCULARITY CHALLENGE](#) | Completed |
-| Task-04   | [CINESCOPE](#) | Completed |
-| Task-05   | [TIME TICK QUIZ CLI](#) | Completed |
-| Task-06   | [LYRIC LOUNGE DISCORD BOT](#) | Not attempted |
-| Task-07   | [WPRD RUSH MOBILE APP](#) | Not attempted|
-| Task-08   | [OPEN CV TREASURE MAP](#) | Not attempted |
-| Task-09   | [SYSFORGE CHALLENGE](#) | Not attempted|
-| Task-10   | [BATTLECRAFT ](#) | Completed |
-| Task-11   | [over the wire bandit](#) |completed|
-| task-12   | [hello,world!](#) |completed|
+<h1>TASK STATUS</h1>
+
+<p>My statistics is as shown :</p>
+
+<table>
+  <tr>
+    <th>Task List</th>
+    <th>Description</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Task-00</td>
+    <td><a href="./task-00">Install Linux</a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-01</td>
+    <td><a href="./task-01">Terminal hunt </a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-02</td>
+    <td><a href="./task-02">ccyberpunk syndicate/a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-03</td>
+    <td><a href="./task-03">the circularity challenge </a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-04</td>
+    <td><a href="./task-04">cinescopel</a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-05</td>
+    <td><a href="./task-05">timetickquiz</a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-06</td>
+    <td><a href="./task-06">lyriclounge</a></td>
+    <td>Not attempted</td>
+  </tr>
+  <tr>
+    <td>Task-07</td>
+    <td><a href="./task-07">wordrush mobile app</a></td>
+    <td>not attempted</td>
+  </tr>
+  <tr>
+    <td>Task-08</td>
+    <td><a href="./task-08">opencv</a></td>
+    <td>not attempted</td>
+  </tr>
+  <tr>
+    <td>Task-09</td>
+    <td><a href="./task-09">sysforge!</a></td>
+    <td>Not attempted</td>
+  </tr>
+  <tr>
+    <td>Task-10</td>
+    <td><a href="./task-10">battlecraft</a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-10</td>
+    <td><a href="./task-10">bandit over the wire </a></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>Task-10</td>
+    <td><a
+          href="./task-12">hello world !</a></td>
+    <td>Completed</td>
+  </tr>
+</table>
