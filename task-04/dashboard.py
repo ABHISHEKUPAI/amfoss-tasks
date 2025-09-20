@@ -164,7 +164,6 @@ class Dashboard(QWidget):
         main_layout.addLayout(split_layout)
         self.setLayout(main_layout)
 
-    # === Logic methods ===
     def get_button_style(self, is_selected):
         if is_selected:
             return """
@@ -195,18 +194,18 @@ class Dashboard(QWidget):
     def toggle_column(self, column):
         if column in self.selected_columns:
             self.selected_columns.remove(column)
-            self.output_console.append(f"❌ Column removed: {column}")
+            self.output_console.append(f"Column removed: {column}")
         else:
             self.selected_columns.append(column)
-            self.output_console.append(f"✅ Column added: {column}")
+            self.output_console.append(f" Column added: {column}")
 
     def execute_search(self):
         query_text = self.query_input.text().strip()
         if not self.search_mode or not query_text:
-            self.output_console.append("⚠️ Please select a search mode and enter text.")
+            self.output_console.append("⚠ Please select a search mode and enter text.")
             return
 
-        # columns
+      
         if self.selected_columns:
             columns = ", ".join(self.selected_columns)
         else:
@@ -242,7 +241,7 @@ class Dashboard(QWidget):
                 item = QTableWidgetItem(str(row[h]) if row[h] is not None else "")
                 self.table.setItem(r, c, item)
 
-        self.output_console.append(f"✅ Found {len(rows)} results.")
+        self.output_console.append(f"Found {len(rows)} results.")
 
     def export_csv(self):
         path, _ = QFileDialog.getSaveFileName(self, "Save CSV", "results.csv", "CSV Files (*.csv)")
